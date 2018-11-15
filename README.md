@@ -1,6 +1,6 @@
 # vuln notes
 
-My favorite vulnerability note.
+A note of my favorite vulnerability.
 - [Bug Bounty Service](./bugbounty.md)
 - [PHP](./php.md)
 - [Safari](./safari.md)
